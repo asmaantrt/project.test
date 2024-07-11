@@ -1,0 +1,43 @@
+/* أي شخص يدخل على الموقع من جهاز بهذا المقاس طبق عليهه التنسيقات التالية */
+/* هذا مقاس اجهزة الجولات  */
+@media(max-width:576px){
+    
+    .navbar-expand-lg .navbar-nav .nav-link 
+    {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .div-picture
+    {
+        text-align: center;
+    }
+    
+}
+/* شاشات صغيرة  */
+@media(min-width:577px) and (max-width:767px){
+    .div-picture
+    {
+        text-align: center;
+    }
+}
+/* شاشات متوسطة  */
+@media(min-width:768px) and (max-width:991px){
+
+    
+}
+/* شاشات كبيرة  */
+@media(min-width:992px) and (max-width:1199px){
+
+    .footer .div-picture img
+    {
+        width: 48.3333%;
+        padding: 5px 5px;
+    }
+
+}
+/* شاشات كبيرة جدا  */
+@media(min-width:1200px){
+    
+}
+/* End Media Query */

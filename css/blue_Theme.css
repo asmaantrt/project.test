@@ -1,0 +1,81 @@
+/* يحتوي على الالوان الاساسية التي سيبدأ بها الموقع */
+
+/**** Start Default Theme ****/
+
+/* Start Section Tool Box */
+.option-box .color-option
+    {
+        border: 2px solid #3742fa ;  
+    }
+
+.option-box .color-option ul li
+    {
+        background: #3742fa;
+    }
+.option-box .gear-check
+    {
+        background:#3742fa;
+    }
+/* End Section Tool Box */
+/* لون الخط بالقائمو المنسدلة */
+.dropdown-item 
+    {
+        color: #3742fa;  
+    }
+.dropdown-menu 
+    {
+        color: #3742fa;  
+    }
+/* القائمة المنسدلة في شريط الناف بار/الخط الفاصل بين العناصر */
+.dropdown-divider
+    {
+        border-top: 2px solid #3742fa;
+    }
+/* الوان قائمة البحث */
+.btn-outline-success 
+    {
+        color: #3742fa;
+        border-color: #3742fa;
+    }
+/* عند الوقوف على زر البحث */
+.btn-outline-success:hover 
+    {
+        background-color: #3742fa;
+        border-color: #3742fa;
+    }
+.n 
+    {
+        background-color:#3742fa ;
+    } 
+.dropdown-menu >a:hover
+    { 
+        background-color: #3742fa;
+
+    }
+/* Start Section About */
+.About h1 span {
+        color: #3742fa;
+    }
+/* Start Featuers */
+.Featuers .feat svg
+    {
+        color: #3742fa;
+    }
+/* Start Testimonials Section */
+.Testimonials span
+    {
+        color:#3742fa ;
+    }
+.Testimonials .carousel-indicators li.active
+    {
+         border: 2px solid #3742fa; 
+     }
+/* Start Footer Section */
+.footer h3
+    {
+        color:#3742fa;
+    }
+.footer .copyright span{
+        color:#3742fa ;
+    }
+/**** End Default Theme ****/

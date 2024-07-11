@@ -1,0 +1,38 @@
+.os{
+    background-color: rgb(135, 158, 201);
+    margin: 10px;
+    padding: 10px;
+}
+.as{
+    background-color: rgb(164, 135, 201);
+    margin: 10px;
+    padding: 10px;
+}
+.Wa{
+    color: red;
+    font-weight:bold;
+    size: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+.ma{
+    background-color:rgb(19, 139, 55);
+    margin: 4px;
+    padding:4px;
+}
+
+.ms{
+    background-color:rgb(202, 85, 130);
+    margin: 4px;
+    padding:4px;
+}
+
+.mu{
+    background-color:rgba(85, 202, 177, 0.623);
+    color: white;
+    margin-bottom: 10px;
+    padding:10px;
+    min-height: 100px;
+}
+
+

@@ -1,0 +1,81 @@
+/* يحتوي على الالوان الاساسية التي سيبدأ بها الموقع */
+
+/**** Start Default Theme ****/
+
+/* Start Section Tool Box */
+.option-box .color-option
+    {
+        border: 2px solid #f8a5c2 ;  
+    }
+
+.option-box .color-option ul li
+    {
+        background: #f8a5c2;
+    }
+.option-box .gear-check
+    {
+        background:#f8a5c2;
+    }
+/* End Section Tool Box */
+/* لون الخط بالقائمو المنسدلة */
+.dropdown-item 
+    {
+        color: #f8a5c2;  
+    }
+.dropdown-menu 
+    {
+        color: #f8a5c2;  
+    }
+/* القائمة المنسدلة في شريط الناف بار/الخط الفاصل بين العناصر */
+.dropdown-divider
+    {
+        border-top: 2px solid #f8a5c2;
+    }
+/* الوان قائمة البحث */
+.btn-outline-success 
+    {
+        color: #f8a5c2;
+        border-color: #f8a5c2;
+    }
+/* عند الوقوف على زر البحث */
+.btn-outline-success:hover 
+    {
+        background-color: #f8a5c2;
+        border-color: #f8a5c2;
+    }
+.n 
+    {
+        background-color:#f8a5c2 ;
+    } 
+.dropdown-menu >a:hover
+    { 
+        background-color: #f8a5c2;
+
+    }
+/* Start Section About */
+.About h1 span {
+        color: #f8a5c2;
+    }
+/* Start Featuers */
+.Featuers .feat svg
+    {
+        color: #f8a5c2;
+    }
+/* Start Testimonials Section */
+.Testimonials span
+    {
+        color:#f8a5c2 ;
+    }
+.Testimonials .carousel-indicators li.active
+    {
+         border: 2px solid #f8a5c2; 
+     }
+/* Start Footer Section */
+.footer h3
+    {
+        color:#f8a5c2;
+    }
+.footer .copyright span{
+        color:#f8a5c2 ;
+    }
+/**** End Default Theme ****/
